@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/a44c6e0b-eb21-4232-bc2e-c605aa2bc0d4)# lec-11---Razorpay-Clone
 
 project link: https://lec-11-razorpay-clone-62tf.vercel.app/
 
