@@ -36,6 +36,25 @@ A comprehensive implementation of Razorpay's powerful payment and business banki
 - **Dashboard Reporting**: Real-time insights and analytics
 - **Secure**: PCI DSS Level 1 compliant
 
+---
+
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 📦 Project Structure
 
 ```bash
@@ -102,17 +121,7 @@ CIN: U72200KA2013PTC097389
 📬 Stay Updated
 Subscribe to the newsletter and get product updates:
 
-txt
-Copy
-Edit
-Your email address: ______________________
-[Subscribe]
 🧑‍💻 License
 This project is for educational and demonstration purposes only.
 All rights to Razorpay APIs and trademarks belong to Razorpay Software Pvt Ltd.
 
-vbnet
-Copy
-Edit
-
-Let me know the tech stack you're using (e.g., Node.js, Python, React), and I can tailor this README wit
